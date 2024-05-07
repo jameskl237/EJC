@@ -649,7 +649,7 @@ section {
 
 .about .icon-boxes .icon-box i {
   font-size: 40px;
-  color: #67b0d1;
+  color: rgba(247, 54, 5, 0.8);
   margin-bottom: 10px;
 }
 
@@ -873,7 +873,7 @@ section {
 }
 
 .portfolio .portfolio-wrap {
-  width: 350px;
+  width: 360px;
   height: 350px;
   transition: 0.3s;
   position: relative;
