@@ -703,7 +703,7 @@ section {
 }
 
 .services .icon-box:hover::before {
-  background: #67b0d1;
+  background: rgba(247, 54, 5, 0.8);
   top: 0;
   border-radius: 0px;
 }
@@ -715,7 +715,7 @@ section {
 .services .icon i {
   font-size: 48px;
   line-height: 1;
-  color: #67b0d1;
+  color: rgba(247, 54, 5, 0.8);
   transition: all 0.3s ease-in-out;
 }
 
@@ -759,7 +759,7 @@ section {
 .counts .count-box i {
   display: block;
   font-size: 44px;
-  color: #67b0d1;
+  color: rgba(247, 54, 5, 0.8);
   float: left;
   line-height: 0;
 }
@@ -865,7 +865,7 @@ section {
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-  color: #67b0d1;
+  color: rgba(247, 54, 5, 0.8);
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -916,7 +916,7 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-  background: rgba(103, 176, 209, 0.95);
+  background: rgba(247, 54, 5, 0.8);
 }
 
 .portfolio .portfolio-wrap .portfolio-links a+a {
@@ -1309,7 +1309,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #263f49;
+  background: rgba(247, 54, 5, 0.8);
   padding: 0 0 30px 0;
   color: #fff;
   font-size: 14px;
@@ -1324,7 +1324,7 @@ section {
   margin-bottom: 15px;
   background: white;
   color: #2f4d5a;
-  border-top: 4px solid #67b0d1;
+  border-top: 4px solid rgba(247, 54, 5, 0.8);
   text-align: center;
   padding: 30px 20px;
 }
@@ -1347,7 +1347,7 @@ section {
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #2f4d5a;
+  background: rgba(247, 54, 5, 0.8);
   color: #fff;
   line-height: 1;
   padding: 8px 0;
